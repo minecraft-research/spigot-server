@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2022-05-07 12:17:26 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

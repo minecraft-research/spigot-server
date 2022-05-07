@@ -1,0 +1,250 @@
+[12:21:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:21:28] [Worker-Main-16/INFO]: Loaded 7 recipes
+[12:21:34] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:21:34] [Server thread/INFO]: Loading properties
+[12:21:34] [Server thread/INFO]: This server is running CraftBukkit version 3484-Spigot-b6d12d1-7bc728a (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[12:21:34] [Server thread/INFO]: Debug logging is disabled
+[12:21:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:21:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:21:34] [Server thread/INFO]: Default game type: SURVIVAL
+[12:21:34] [Server thread/INFO]: Generating keypair
+[12:21:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:21:34] [Server thread/INFO]: Using default channel type
+[12:21:35] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[12:21:39] [Server thread/WARN]: Legacy plugin Xplore v1.4.1 does not specify an api-version.
+[12:21:39] [Server thread/INFO]: [Xplore] Loading Xplore v1.4.1
+[12:21:39] [Server thread/INFO]: Preparing level "world"
+[12:21:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:21:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:21:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:21:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:21:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:21:40] [Server thread/INFO]: View Distance: 10
+[12:21:40] [Server thread/INFO]: Simulation Distance: 10
+[12:21:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:21:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:21:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:21:40] [Server thread/INFO]: Mob Spawn Range: 6
+[12:21:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:21:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:21:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:21:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:21:40] [Server thread/INFO]: Max TNT Explosions: 100
+[12:21:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:21:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:21:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:21:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:21:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:21:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:21:40] [Server thread/INFO]: View Distance: 10
+[12:21:40] [Server thread/INFO]: Simulation Distance: 10
+[12:21:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:21:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:21:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:21:40] [Server thread/INFO]: Mob Spawn Range: 6
+[12:21:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:21:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:21:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:21:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:21:40] [Server thread/INFO]: Max TNT Explosions: 100
+[12:21:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:21:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:21:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:21:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:21:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:21:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:21:40] [Server thread/INFO]: View Distance: 10
+[12:21:40] [Server thread/INFO]: Simulation Distance: 10
+[12:21:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:21:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:21:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:21:40] [Server thread/INFO]: Mob Spawn Range: 6
+[12:21:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:21:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:21:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:21:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:21:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:21:40] [Server thread/INFO]: Max TNT Explosions: 100
+[12:21:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:21:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:21:42] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:42] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[12:21:42] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:42] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:42] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:43] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[12:21:43] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[12:21:44] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[12:21:44] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:45] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[12:21:45] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[12:21:46] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[12:21:46] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[12:21:47] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[12:21:47] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[12:21:48] [Worker-Main-20/INFO]: Preparing spawn area: 6%
+[12:21:48] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[12:21:49] [Worker-Main-20/INFO]: Preparing spawn area: 79%
+[12:21:49] [Worker-Main-22/INFO]: Preparing spawn area: 88%
+[12:21:49] [Server thread/INFO]: Time elapsed: 9029 ms
+[12:21:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:21:51] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:51] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[12:21:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:21:51] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[12:21:52] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[12:21:52] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[12:21:53] [Worker-Main-19/INFO]: Preparing spawn area: 36%
+[12:21:53] [Server thread/INFO]: Time elapsed: 3635 ms
+[12:21:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:21:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:21:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:21:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:21:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:21:55] [Worker-Main-21/INFO]: Preparing spawn area: 3%
+[12:21:56] [Worker-Main-13/INFO]: Preparing spawn area: 42%
+[12:21:56] [Server thread/INFO]: Time elapsed: 2820 ms
+[12:21:56] [Server thread/INFO]: [Xplore] Enabling Xplore v1.4.1
+[12:21:56] [Server thread/INFO]: [Xplore] plugin works
+[12:21:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:21:56] [Server thread/INFO]: Done (17.058s)! For help, type "help"
+[12:22:32] [User Authenticator #1/INFO]: UUID of player MCRes is e4bac51d-d214-4d43-a6e4-41008b733b91
+[12:22:32] [Server thread/INFO]: [Xplore] Player Joined Update from the Plugin
+[12:22:32] [Server thread/INFO]: [Xplore] Saving Data
+[12:22:32] [Timer-0/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.PacketPlayOutTitle
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:147)
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:99)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:383)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:376)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.ReflectionAPI.getNmsClass(Main.java:444)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.TitleAPI.sendTitle(Main.java:295)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.Main$2.run(Main.java:140)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[12:22:32] [Timer-0/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.IChatBaseComponent
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:147)
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:99)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:383)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:376)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.ReflectionAPI.getNmsClass(Main.java:444)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.TitleAPI.sendTitle(Main.java:296)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.Main$2.run(Main.java:140)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[12:22:32] [Timer-0/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.IChatBaseComponent$ChatSerializer
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:147)
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:99)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:383)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:376)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.ReflectionAPI.getNmsClass(Main.java:444)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.TitleAPI.sendTitle(Main.java:297)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.Main$2.run(Main.java:140)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[12:22:32] [Timer-0/WARN]: java.lang.ClassNotFoundException: net.minecraft.server.v1_18_R2.PacketPlayOutTitle$EnumTitleAction
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:147)
+[12:22:32] [Timer-0/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:99)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:383)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.lang.Class.forName(Class.java:376)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.ReflectionAPI.getNmsClass(Main.java:444)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.TitleAPI.sendTitle(Main.java:298)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.Main$2.run(Main.java:140)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[12:22:32] [Timer-0/WARN]: Exception in thread "Timer-0" java.lang.NullPointerException: Cannot invoke "java.lang.Class.getConstructor(java.lang.Class[])" because "com.mcres.boredom.TitleAPI.packetClass" is null
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.TitleAPI.sendTitle(Main.java:300)
+[12:22:32] [Timer-0/WARN]: 	at com.mcres.boredom.Main$2.run(Main.java:140)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[12:22:32] [Timer-0/WARN]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[12:22:32] [Server thread/INFO]: MCRes[/127.0.0.1:50531] logged in with entity id 92 at ([world]8.5, 107.0, 30.5)
+[12:22:52] [Server thread/INFO]: [Xplore] 111.4136436887332
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:53] [Server thread/INFO]: [Xplore] 0.0
+[12:22:54] [Server thread/INFO]: [Xplore] 0.0
+[12:22:54] [Server thread/INFO]: [Xplore] 0.0
+[12:22:54] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:55] [Server thread/INFO]: [Xplore] 0.0
+[12:22:56] [Server thread/INFO]: [Xplore] 0.0
+[12:22:56] [Server thread/INFO]: [Xplore] 0.0
+[12:22:56] [Server thread/INFO]: [Xplore] 0.0
+[12:22:56] [Server thread/INFO]: [Xplore] 0.0
+[12:22:57] [Server thread/INFO]: [Xplore] 0.0
+[12:23:10] [Server thread/INFO]: MCRes lost connection: Disconnected
+[12:23:10] [Server thread/INFO]: MCRes left the game
+[12:23:18] [Server thread/INFO]: Stopping server
+[12:23:18] [Server thread/INFO]: [Xplore] Disabling Xplore v1.4.1
+[12:23:18] [Server thread/INFO]: Saving players
+[12:23:18] [Server thread/INFO]: Saving worlds
+[12:23:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:23:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:23:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:23:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:23:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:23:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:23:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
